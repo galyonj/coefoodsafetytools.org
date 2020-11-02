@@ -1,0 +1,29 @@
+{
+	"name": "utk/coefoodsafetytools",
+	"description": "WordPress theme and plugin development",
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://wpackagist.org",
+			"only": [
+				"wpackagist-plugin/*",
+				"wpackagist-theme/*"
+			]
+		}
+	],
+	"require": {
+		"wpackagist-plugin/ninja-forms": "^3.4",
+		"wpackagist-plugin/the-events-calendar": "^5.2",
+		"wpackagist-plugin/advanced-custom-fields": "^5.9",
+		"wpackagist-plugin/classic-editor": "^1.6",
+		"wpackagist-plugin/stream": "^3.6",
+		"wpackagist-plugin/what-the-file": "^1.5"
+	},
+	"extra": {
+		"installer-paths": {
+			"plugins/{$name}/": [
+				"type:wordpress-plugin"
+			]
+		}
+	}
+}
