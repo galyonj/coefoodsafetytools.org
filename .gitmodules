@@ -1,0 +1,3 @@
+[submodule "themes/coefoodsafetytools.org"]
+	path = themes/coefoodsafetytools.org
+	url = git@github.com:galyonj/coe-theme
