@@ -2,8 +2,7 @@
 db/
 wp/
 plugins/
-themes/*
-!themes/coefoodsafetytools.org/
+themes/
 vendor/
 
 # You never want to save node_modules to the remote

@@ -17,7 +17,8 @@
 		"wpackagist-plugin/advanced-custom-fields": "^5.9",
 		"wpackagist-plugin/classic-editor": "^1.6",
 		"wpackagist-plugin/stream": "^3.6",
-		"wpackagist-plugin/what-the-file": "^1.5"
+		"wpackagist-plugin/what-the-file": "^1.5",
+		"wpackagist-plugin/debug-bar": "^1.1"
 	},
 	"extra": {
 		"installer-paths": {
