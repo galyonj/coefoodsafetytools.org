@@ -1,3 +1,6 @@
 [submodule "themes/coefoodsafetytools.org"]
 	path = themes/coefoodsafetytools.org
 	url = git@github.com:galyonj/coe-theme
+[submodule "plugins/coe-dams"]
+	path = plugins/coe-dams
+	url = git@github.com:galyonj/coe-dams.git
