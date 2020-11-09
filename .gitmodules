@@ -1,6 +1,12 @@
 [submodule "themes/coefoodsafetytools.org"]
 	path = themes/coefoodsafetytools.org
 	url = git@github.com:galyonj/coe-theme
-[submodule "plugins/coe-dams"]
-	path = plugins/coe-dams
-	url = git@github.com:galyonj/coe-dams.git
+[submodule "plugins/coe-dam"]
+	path = plugins/coe-dam
+	url = https://github.com/galyonj/coe-dam
+[submodule "plugins/asset-management"]
+	path = plugins/asset-management
+	url = git@github.com:galyonj/asset-management
+[submodule "plugins/wpbt"]
+	path = plugins/wpbt
+	url = git@github.com:joesz/wordpress-plugin-boilerplate-tutorial
